@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-[./assets/img/screenshot.png]
+![Screenshot of lol-ping](/assets/img/screenshot.png)
 
 ## System Requirements
 
