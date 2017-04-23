@@ -10,11 +10,13 @@
 
 - Windows Vista SP2 or Later
 
-## Download
+## Installation
 
 ### Windows
 
 Download the Windows Installer [here](./dist/lol-ping Setup 1.0.0.exe).
+Since the App is not signed, you may need to allow it through Windows UAC or SmartFilter, depending on which version you are running.
+
 
 ### MacOS
 
