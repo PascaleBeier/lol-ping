@@ -4,7 +4,7 @@
 
 ## Screenshot
 
-![Screenshot of lol-ping](/assets/img/screenshot.png)
+![Screenshot of lol-ping](assets/img/screenshot.png)
 
 ## System Requirements
 
@@ -14,7 +14,7 @@
 
 ### Windows
 
-Download the Windows Installer [here](./dist/lol-ping Setup 1.0.0.exe).
+Download the Windows Installer [here](https://github.com/PascaleBeier/lol-ping/blob/1.0.0/dist/lol-ping%20Setup%201.0.0.exe).
 Since the App is not signed, you may need to allow it through Windows UAC or SmartFilter, depending on which version you are running.
 
 
