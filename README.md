@@ -14,7 +14,7 @@
 
 ### Windows
 
-Download the latest Windows Installer [here](releases).
+Download the latest Windows Installer [here](https://github.com/PascaleBeier/lol-ping/releases).
 Since the App is not signed, you may need to allow it through Windows UAC or SmartFilter, depending on which version you are running.
 
 
